@@ -1,0 +1,15 @@
+D:\CSharp\Console\simbrella_oop\bin\Debug\net7.0\simbrella_oop.exe
+D:\CSharp\Console\simbrella_oop\bin\Debug\net7.0\simbrella_oop.deps.json
+D:\CSharp\Console\simbrella_oop\bin\Debug\net7.0\simbrella_oop.runtimeconfig.json
+D:\CSharp\Console\simbrella_oop\bin\Debug\net7.0\simbrella_oop.dll
+D:\CSharp\Console\simbrella_oop\bin\Debug\net7.0\simbrella_oop.pdb
+D:\CSharp\Console\simbrella_oop\obj\Debug\net7.0\simbrella_oop.csproj.AssemblyReference.cache
+D:\CSharp\Console\simbrella_oop\obj\Debug\net7.0\simbrella_oop.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Console\simbrella_oop\obj\Debug\net7.0\simbrella_oop.AssemblyInfoInputs.cache
+D:\CSharp\Console\simbrella_oop\obj\Debug\net7.0\simbrella_oop.AssemblyInfo.cs
+D:\CSharp\Console\simbrella_oop\obj\Debug\net7.0\simbrella_oop.csproj.CoreCompileInputs.cache
+D:\CSharp\Console\simbrella_oop\obj\Debug\net7.0\simbrella_oop.dll
+D:\CSharp\Console\simbrella_oop\obj\Debug\net7.0\refint\simbrella_oop.dll
+D:\CSharp\Console\simbrella_oop\obj\Debug\net7.0\simbrella_oop.pdb
+D:\CSharp\Console\simbrella_oop\obj\Debug\net7.0\simbrella_oop.genruntimeconfig.cache
+D:\CSharp\Console\simbrella_oop\obj\Debug\net7.0\ref\simbrella_oop.dll
